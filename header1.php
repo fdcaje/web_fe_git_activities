@@ -1,3 +1,4 @@
 <div>
-	<span>home</span>
+	<span>About us</span>
+	<span>Ccontact</span>
 </div>
